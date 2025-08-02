@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Chaudhary</h1>
 <h3 align="center">Being a Tech Nerd I am constantly looking to pick up new and innovative skills in the industry.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true" />
+<img style="border-radius: 50px" align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=develo-oper-piyush&label=Profile%20views&color=0e75b6&style=flat" alt="develo-oper-piyush" /> </p>
 
