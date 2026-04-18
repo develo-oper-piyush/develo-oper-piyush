@@ -145,9 +145,9 @@ open_to   : Collaborations & Opportunities ✅
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/develo-oper-piyush/develo-oper-piyush/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/develo-oper-piyush/develo-oper-piyush/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/develo-oper-piyush/develo-oper-piyush/output/github-contribution-grid-snake.svg"
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/develo-oper-piyush/develo-oper-piyush/blob/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/develo-oper-piyush/develo-oper-piyush/blob/output/github-snake-dark.svg"/>
+    <img alt="github contribution snake" src="https://github.com/develo-oper-piyush/develo-oper-piyush/blob/output/github-snake-dark.svg"
          onerror="this.src='https://github.com/develo-oper-piyush/develo-oper-piyush/blob/output/github-contribution-grid-snake.svg?raw=true'"/>
   </picture>
 </div>
