@@ -34,7 +34,7 @@ alias     : develo-oper-piyush
 location  : India 🇮🇳
 learning  : Web Dev • DSA • Machine Learning
 interests : Development • Open Source
-fun_fact  : I love to explore every movie/TV genre 🎬
+fun_fact  : I love playing video games 🎮
 open_to   : Collaborations & Opportunities ✅
 ```
 
